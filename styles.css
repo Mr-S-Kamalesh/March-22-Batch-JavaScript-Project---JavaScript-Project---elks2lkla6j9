@@ -19,6 +19,10 @@ canvas {
   width: 350px;
   height: 350px;
 }
+h3{
+  text-align: center;
+  margin-top: 450px;
+}
 label{
   font-size: 1.5rem;
   color: #fcfafc
@@ -42,5 +46,4 @@ button {
 h1{
   margin-top: auto;
 }
-
 
